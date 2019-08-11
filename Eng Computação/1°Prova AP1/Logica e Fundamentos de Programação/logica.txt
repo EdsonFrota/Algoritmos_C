@@ -1,0 +1,51 @@
+LÓGICA E FUNDAMENTOS DE PROGRAMAÇÃO
+
+------------------------------------------------------
+EXERCICIO 01
+
+Dona Rosa	    Dona Branca	        Dona Violeta
+Vestido branco	   Vestido rosa	        Vestido branco
+Vestido violeta	   Vestido violeta	 Vestido rosa
+
+Vestido violeta não está na dona Rosa. Portanto, como vestido violeta não pode estar na Dona Violeta, quem está vestindo-o é a dona Branca. 
+A conclusão é:
+
+	Dona Rosa: vestido branco
+	Dona Branca: vestido violeta
+	Dona Violeta: vestido rosa
+
+--------------------------------------------------------
+
+EXERCICIO 05 
+
+3 digitos: XY7
+7XY = 21 + (2 * XY7);
+
+Ao colocar o 7 na primeira posição, será um número entre 700 e 799. Sendo assim, a metade desse número esta em 350 e 400. No entanto o número tem que ser no mínimo, 357 (já que o último número é 7) e 397.
+
+A variação desses dois números é:
+357 * 2 = 714		714 + 21 = 735
+397 * 2 = 794		794 + 21 = 815		
+
+O resultado é 357 e 735
+-- --------------------------------------------------------------
+
+--------------------FUNDAMENTOS DE PROGRAMAÇÃO -----------------
+
+EXERCICIO 7
+
+a. Int/Inteiro
+b. Char/Caractere
+c. Char/Caractere
+d. Real/Float
+e. Booleano
+f. Char/Caractere
+----------------------------------------------------------
+
+EXERCICIO 10
+a.V
+b.F
+c.F
+d.V
+e.V
+----------------------------------------------------------
